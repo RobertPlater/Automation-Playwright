@@ -1,7 +1,7 @@
 Please find answers to Direct Ferries interview tasks in this repository
 
 Task URL: https://gitlab.com/testing9404734/direct-ferries-automation-test
-Complete sections 1 to 4 and create git repo and commit your code
+Complete sections 1 to 4, create git repo and commit your code
 
 1. There are some tests existing and working within homepage-tests feature   
    - please extend the test coverage for sites www.directferries.co.uk and www.directferries.it and ensure 
